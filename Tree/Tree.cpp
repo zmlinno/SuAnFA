@@ -2,6 +2,7 @@
 #include<iostream>
 using namespace std;
 //二叉树
+//叉
 
 
 // 定义二叉树节点
